@@ -23,5 +23,6 @@ if i can recall, it has something to do with the machine's serial number and dis
 
 ![image](https://github.com/cheonglol/keygeneratorFINAL/assets/82318965/c4fd6767-51ff-40be-a0d8-614f450a0282)
 
+_that dataspy thing was something my company needed for unlocking extra logging features? that couldn't be checked if the debugging tool was locked_
 
 but damn, making a keygen tool is crazy. proud of this shit... i guess?
