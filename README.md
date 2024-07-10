@@ -21,7 +21,7 @@ if i can recall, it has something to do with the machine's serial number and dis
 
 ![image](https://github.com/cheonglol/keygeneratorFINAL/assets/82318965/2bd0bd25-3992-4aaa-b5d3-e46a07fc23e1)
 
-_please don't email that dude, im too lazy to fw photo editing and removing his email out (why didn't i do this back then?? i drew a fucking arrow but failed to respect privacy) _
+_please don't email that dude, im too lazy to fw photo editing and removing his email out (why didn't i do this back then?? i drew a fucking arrow but failed to respect privacy)_
 
 ![image](https://github.com/cheonglol/keygeneratorFINAL/assets/82318965/c4fd6767-51ff-40be-a0d8-614f450a0282)
 
