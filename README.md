@@ -14,7 +14,7 @@ Whatever, I used DnSpy to decompile mobike's internal debugging tool for the phy
 
 Why? to find out what was the algorithm that made each key to different machine unique.
 Why? because sgbikes only got 2 or 3 laptops from their acquisition and each came with the unlocked mobike debugging tool installed.
-What does this mean? this meant that you can just copy-&-paste mindlessly that dumbahh debugging tool since each has a unique password
+What does this mean? this meant that you can't just copy-&-paste mindlessly that dumbahh debugging tool since each has a unique password
 
 if i can recall, it has something to do with the machine's serial number and disk/drive serial too? i don't know, its been quite some time.
 
